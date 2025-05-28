@@ -1,3 +1,7 @@
 [submodule "Submodule1"]
 	path = Submodules/Submodule1
 	url = https://github.com/Foundit3923/Submodule1
+	
+[submodule "Mirror"]
+	path = Submodules/Mirror
+	url = https://github.com/Tubby-Boy-Studios/Mirror
